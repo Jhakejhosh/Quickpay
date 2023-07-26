@@ -1,0 +1,1 @@
+Quickpay is a fast payment website

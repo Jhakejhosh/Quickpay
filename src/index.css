@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito+Sans&family=Outfit:wght@300;400;500;700&family=Playfair+Display&family=Poppins:wght@500&family=Roboto&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*, body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Outfit', Sans-Serif;
+  width: 100%;
+  position: relative;
+}
+html {
+	scroll-behavior: smooth;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	text-decoration: inherit;
+}
